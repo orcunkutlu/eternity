@@ -9,7 +9,9 @@ params:
   logo: logo.png # todo: add your custom logo to static/
   subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
+  author: 
+    name: 'Lovely Author' # todo: set name
+    email: '' # todo: set email
   dontShowSource: false # please, do not do this :)
   dontShowLogo: false # If you want to hide the logo, this is what you set to true
   portfolio:
